@@ -3,5 +3,6 @@ project(CodeMaxi)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CodMaxi cFunkMast.cpp)
-add_executable(CodeMaxi cHaarFoehn.cpp)
+add_executable(CodeMaxi cFunkMast.cpp)
+#add_executable(CodeMaxi cHaarFoehn.cpp)
+
